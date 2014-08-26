@@ -3,4 +3,4 @@ testrepo
 
 test
 
-I love :coffee.
+I love :coffee:
